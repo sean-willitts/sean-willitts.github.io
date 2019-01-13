@@ -1,0 +1,32 @@
+header {
+	background: pink;
+	text-shadow: 1px 1px
+	text-align: center;
+	font-size: 24px;
+	font-family: "Courier";
+}
+
+p {
+
+line-height: 1.5;
+font-size: 20px;
+font-family: "Courier";
+
+}
+
+nav {
+
+background-color: green;
+text-align: justify;
+font-size: 20px;
+font-family: "Arial";
+padding-top: 50px;
+
+}
+
+section {
+
+background: pink;
+text-shadow: 1px 1px;
+
+}
